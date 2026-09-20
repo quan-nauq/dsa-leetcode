@@ -23,6 +23,9 @@ Each problem folder contains:
 |---|---------|---------|--------|-----|
 | | | | | |
 
+## Submissions
+Submit solutions on (https://leetcode.com)
+
 ## License
 
 MIT

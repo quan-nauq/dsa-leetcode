@@ -24,7 +24,7 @@ Each problem folder contains:
 | | | | | |
 
 ## Submissions
-Submit solutions on (https://leetcode.com)
+Submit solutions on [Leetcode](https://leetcode.com).
 
 ## License
 

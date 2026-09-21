@@ -14,9 +14,9 @@ number, and this repo mirrors that: one folder per pattern, one subfolder per pr
 
 Each problem folder contains:
 
-- `solution.py` — Python solution
-- `solution.cpp` — C++ solution
 - `README.md` — the problem, the approach, and why it works
+- `solution.cpp` — C++ solution
+- `solution.py` — Python solution
 
 ## Progress
 

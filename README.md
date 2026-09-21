@@ -24,6 +24,7 @@ Each problem folder contains:
 |---|---------|---------|--------|-----|
 | 1 | [Contains Duplicate](arrays-and-hashtables/contains-duplicate/) | Arrays & Hashing | ✅ | ✅ |
 | 2 | [Two Sum](arrays-and-hashtables/two-sum/) | Arrays & Hashing | ✅ | ✅ |
+| 3 | [Find All Numbers Disappeared in an Array](arrays-and-hashtables/find-all-numbers-disappeared-in-an-array/) | Arrays & Hashing | ✅ | ✅ |
 ## Submissions
 Submit solutions on [Leetcode](https://leetcode.com).
 

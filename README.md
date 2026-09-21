@@ -7,9 +7,10 @@ don't understand it yet.
 
 ## How this is organised
 
-Problems follow [Sean Prashad's LeetCode Patterns](https://seanprashad.com/leetcode-patterns/),
-worked through in order starting from the beginner set. The list is grouped by
-pattern rather than by problem number, and this repo mirrors that.
+Problems follow the **beginner roadmap** of
+[Sean Prashad's LeetCode Patterns](https://seanprashad.com/leetcode-patterns/?view=beginner),
+worked through in order. The list is grouped by pattern rather than by problem
+number, and this repo mirrors that: one folder per pattern, one subfolder per problem.
 
 Each problem folder contains:
 
@@ -21,7 +22,7 @@ Each problem folder contains:
 
 | # | Problem | Pattern | Python | C++ |
 |---|---------|---------|--------|-----|
-| | | | | |
+| 1 | [Contains Duplicate](arrays-and-hashtables/contains-duplicate/) | Arrays & Hashing | ✅ | ✅ |
 
 ## Submissions
 Submit solutions on [Leetcode](https://leetcode.com).

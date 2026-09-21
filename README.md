@@ -23,7 +23,7 @@ Each problem folder contains:
 | # | Problem | Pattern | Python | C++ |
 |---|---------|---------|--------|-----|
 | 1 | [Contains Duplicate](arrays-and-hashtables/contains-duplicate/) | Arrays & Hashing | ✅ | ✅ |
-
+| 2 | [Two Sum](arrays-and-hashtables/two-sum/) | Arrays & Hashing | ✅ | ✅ |
 ## Submissions
 Submit solutions on [Leetcode](https://leetcode.com).
 

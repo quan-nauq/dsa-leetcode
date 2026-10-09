@@ -27,6 +27,8 @@ Each problem folder contains:
 | 3 | [Find All Numbers Disappeared in an Array](arrays-and-hashtables/find-all-numbers-disappeared-in-an-array/) | Arrays & Hashing | ✅ | ✅ |
 | 4 | [Missing Number](arrays-and-hashtables/missing-number/) | Arrays & Hashing | ✅ | ✅ |
 | 5 | [Majority Element](arrays-and-hashtables/majority-element/) | Arrays & Hashing | ✅ | ✅ |
+| 6 | [Move Zeroes](two-pointers/move-zeroes/) | Two Pointers | ✅ | ✅ |
+
 ## Submissions
 Submit solutions on [Leetcode](https://leetcode.com).
 

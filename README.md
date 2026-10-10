@@ -30,6 +30,8 @@ Each problem folder contains:
 | 6 | [Move Zeroes](two-pointers/move-zeroes/) | Two Pointers | ✅ | ✅ |
 | 7 | [Squares of a Sorted Array](two-pointers/squares-of-a-sorted-array/) | Two Pointers | ✅ | ✅ |
 | 8 | [Backspace String Compare](two-pointers/backspace-string-compare/) | Two Pointers | ✅ | ✅ |
+| 9 | [Maximum Average Subarray I](sliding-window/maximum-average-subarray-i/) | Sliding Window | ✅ | ✅ |
+
 ## Submissions
 Submit solutions on [Leetcode](https://leetcode.com).
 

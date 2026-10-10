@@ -29,7 +29,7 @@ Each problem folder contains:
 | 5 | [Majority Element](arrays-and-hashtables/majority-element/) | Arrays & Hashing | ✅ | ✅ |
 | 6 | [Move Zeroes](two-pointers/move-zeroes/) | Two Pointers | ✅ | ✅ |
 | 7 | [Squares of a Sorted Array](two-pointers/squares-of-a-sorted-array/) | Two Pointers | ✅ | ✅ |
-
+| 8 | [Backspace String Compare](two-pointers/backspace-string-compare/) | Two Pointers | ✅ | ✅ |
 ## Submissions
 Submit solutions on [Leetcode](https://leetcode.com).
 

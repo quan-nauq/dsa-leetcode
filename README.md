@@ -28,6 +28,7 @@ Each problem folder contains:
 | 4 | [Missing Number](arrays-and-hashtables/missing-number/) | Arrays & Hashing | ✅ | ✅ |
 | 5 | [Majority Element](arrays-and-hashtables/majority-element/) | Arrays & Hashing | ✅ | ✅ |
 | 6 | [Move Zeroes](two-pointers/move-zeroes/) | Two Pointers | ✅ | ✅ |
+| 7 | [Squares of a Sorted Array](two-pointers/squares-of-a-sorted-array/) | Two Pointers | ✅ | ✅ |
 
 ## Submissions
 Submit solutions on [Leetcode](https://leetcode.com).

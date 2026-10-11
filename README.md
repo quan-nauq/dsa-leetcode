@@ -32,7 +32,7 @@ Each problem folder contains:
 | 8 | [Backspace String Compare](two-pointers/backspace-string-compare/) | Two Pointers | ✅ | ✅ |
 | 9 | [Maximum Average Subarray I](sliding-window/maximum-average-subarray-i/) | Sliding Window | ✅ | ✅ |
 | 10 | [Is Subsequence](sliding-window/is-subsequence/) | Sliding Window | ✅ | ✅ |
-| 11 | [Reverse Linked List](linked-list/reverse-linked-list/) | Linked List | ✅ | ✅ |
+| 11 | [Reverse Linked List](linked-lists/reverse-linked-list/) | Linked List | ✅ | ✅ |
 
 ## Submissions
 Submit solutions on [Leetcode](https://leetcode.com).

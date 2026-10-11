@@ -31,6 +31,7 @@ Each problem folder contains:
 | 7 | [Squares of a Sorted Array](two-pointers/squares-of-a-sorted-array/) | Two Pointers | ✅ | ✅ |
 | 8 | [Backspace String Compare](two-pointers/backspace-string-compare/) | Two Pointers | ✅ | ✅ |
 | 9 | [Maximum Average Subarray I](sliding-window/maximum-average-subarray-i/) | Sliding Window | ✅ | ✅ |
+| 10 | [Is Subsequence](two-pointers/is-subsequence/) | Two Pointers | ✅ | ✅ |
 
 ## Submissions
 Submit solutions on [Leetcode](https://leetcode.com).

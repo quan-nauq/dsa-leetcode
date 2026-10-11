@@ -1,6 +1,6 @@
 # Is Subsequence
 
-[LeetCode 392](https://leetcode.com/problems/is-subsequence/) · Easy · Two Pointers
+[LeetCode 392](https://leetcode.com/problems/is-subsequence/) · Easy · Sliding Window
 
 ## The problem
 

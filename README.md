@@ -33,6 +33,7 @@ Each problem folder contains:
 | 9 | [Maximum Average Subarray I](sliding-window/maximum-average-subarray-i/) | Sliding Window | ✅ | ✅ |
 | 10 | [Is Subsequence](sliding-window/is-subsequence/) | Sliding Window | ✅ | ✅ |
 | 11 | [Reverse Linked List](linked-lists/reverse-linked-list/) | Linked List | ✅ | ✅ |
+| 12 | [Middle of the Linked List](linked-list/middle-of-the-linked-list/) | Linked List | ✅ | ✅ |
 
 ## Submissions
 Submit solutions on [Leetcode](https://leetcode.com).

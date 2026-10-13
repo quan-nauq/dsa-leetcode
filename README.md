@@ -34,7 +34,7 @@ Each problem folder contains:
 | 10 | [Is Subsequence](sliding-window/is-subsequence/) | Sliding Window | ✅ | ✅ |
 | 11 | [Reverse Linked List](linked-lists/reverse-linked-list/) | Linked List | ✅ | ✅ |
 | 12 | [Middle of the Linked List](linked-lists/middle-of-the-linked-list/) | Linked List | ✅ | ✅ |
-
+| 13 | [Linked List Cycle](linked-lists/linked-list-cycle/) | Linked List | ✅ | ✅ |
 ## Submissions
 Submit solutions on [Leetcode](https://leetcode.com).
 

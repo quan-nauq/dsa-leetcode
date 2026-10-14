@@ -37,6 +37,7 @@ Each problem folder contains:
 | 13 | [Linked List Cycle](linked-lists/linked-list-cycle/) | Linked List | ✅ | ✅ |
 | 14 | [Merge Two Sorted Lists](linked-lists/merge-two-sorted-lists/) | Linked List | ✅ | ✅ |
 | 15 | [Remove Linked List Elements](linked-lists/remove-linked-list-elements/) | Linked List | ✅ | ✅ |
+| 16 | [Remove Duplicates from Sorted List](linked-lists/remove-duplicates-from-sorted-list/) | Linked List | ✅ | ✅ |
 
 ## Submissions
 Submit solutions on [Leetcode](https://leetcode.com).

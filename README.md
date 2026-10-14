@@ -1,7 +1,7 @@
 # dsa-leetcode
 Solutions to LeetCode problems in Python and C++, each with a beginner-friendly explanation of the approach.
 
-I'm learning data structures and algorithms by teaching them. For every problem
+I'm active recalling data structures and algorithms by teaching them. For every problem
 I write up the reasoning in plain language — if I can't explain it simply, I
 don't understand it yet.
 

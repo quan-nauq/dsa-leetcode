@@ -39,6 +39,7 @@ Each problem folder contains:
 | 15 | [Remove Linked List Elements](linked-lists/remove-linked-list-elements/) | Linked List | ✅ | ✅ |
 | 16 | [Remove Duplicates from Sorted List](linked-lists/remove-duplicates-from-sorted-list/) | Linked List | ✅ | ✅ |
 | 17 | [Palindrome Linked List](linked-lists/palindrome-linked-list/) | Linked List | ✅ | ✅ |
+| 18 | [Binary Search](binary-search/binary-search/) | Binary Search | ✅ | ✅ |
 
 ## Submissions
 Submit solutions on [Leetcode](https://leetcode.com).

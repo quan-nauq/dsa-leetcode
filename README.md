@@ -40,6 +40,7 @@ Each problem folder contains:
 | 16 | [Remove Duplicates from Sorted List](linked-lists/remove-duplicates-from-sorted-list/) | Linked List | ✅ | ✅ |
 | 17 | [Palindrome Linked List](linked-lists/palindrome-linked-list/) | Linked List | ✅ | ✅ |
 | 18 | [Binary Search](binary-search/binary-search/) | Binary Search | ✅ | ✅ |
+| 19 | [Find Smallest Letter Greater Than Target](binary-search/find-smallest-letter-greater-than-target/) | Binary Search | ✅ | ✅ |
 
 ## Submissions
 Submit solutions on [Leetcode](https://leetcode.com).
